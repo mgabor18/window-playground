@@ -1,0 +1,8 @@
+video {
+  position: absolute;
+  pointer-events: none;
+}
+
+body {
+  overflow: hidden;
+}
