@@ -1,0 +1,16 @@
+{
+  "name": "window-playground",
+  "version": "1.0.0",
+  "description": "A playground repository to play around with browser windows and local storage.",
+  "author": "Márton Gábor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "local",
+    "storage",
+    "browser",
+    "window"
+  ]
+}
